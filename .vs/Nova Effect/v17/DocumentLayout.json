@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mr.Vercetti\\Desktop\\Nova Effect\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89A67377-D66F-C970-3ACC-1DB7D8798F54}|Assembly-CSharp.csproj|c:\\users\\mr.vercetti\\desktop\\nova effect\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A67377-D66F-C970-3ACC-1DB7D8798F54}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A67377-D66F-C970-3ACC-1DB7D8798F54}|Assembly-CSharp.csproj|C:\\Users\\Mr.Vercetti\\Desktop\\Nova Effect\\assets\\scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A67377-D66F-C970-3ACC-1DB7D8798F54}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A67377-D66F-C970-3ACC-1DB7D8798F54}|Assembly-CSharp.csproj|C:\\Users\\Mr.Vercetti\\Desktop\\Nova Effect\\assets\\scripts\\destruible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A67377-D66F-C970-3ACC-1DB7D8798F54}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\destruible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A67377-D66F-C970-3ACC-1DB7D8798F54}|Assembly-CSharp.csproj|C:\\Users\\Mr.Vercetti\\Desktop\\Nova Effect\\assets\\scripts\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A67377-D66F-C970-3ACC-1DB7D8798F54}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Mr.Vercetti\\Desktop\\Nova Effect\\Assets\\Scripts\\Menu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menu.cs",
+              "ToolTip": "C:\\Users\\Mr.Vercetti\\Desktop\\Nova Effect\\Assets\\Scripts\\Menu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menu.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAGwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T05:32:47.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Jugador.cs",
+              "DocumentMoniker": "C:\\Users\\Mr.Vercetti\\Desktop\\Nova Effect\\Assets\\Scripts\\Jugador.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Jugador.cs",
+              "ToolTip": "C:\\Users\\Mr.Vercetti\\Desktop\\Nova Effect\\Assets\\Scripts\\Jugador.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Jugador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T04:20:15.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Destruible.cs",
+              "DocumentMoniker": "C:\\Users\\Mr.Vercetti\\Desktop\\Nova Effect\\Assets\\Scripts\\Destruible.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Destruible.cs",
+              "ToolTip": "C:\\Users\\Mr.Vercetti\\Desktop\\Nova Effect\\Assets\\Scripts\\Destruible.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Destruible.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T03:11:44.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Mr.Vercetti\\Desktop\\Nova Effect\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Mr.Vercetti\\Desktop\\Nova Effect\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T03:06:25.391Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
